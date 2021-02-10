@@ -1,0 +1,12 @@
+/._.npmignore
+/._CONTRIBUTING.md
+/._LICENSE
+/._NOTICE
+/._README.md
+/._RELEASENOTES.md
+/._doc
+/._package.json
+/._plugin.xml
+/._src
+/._tests
+/._www
